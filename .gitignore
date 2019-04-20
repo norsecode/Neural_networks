@@ -1,6 +1,8 @@
 #Ignore large files (should add githook later)
 kera-object-detection-yolo/model_data/yolo.h5
 tensorflow-neural-style-tranfer/pretrained-model/*.mat
+neural-network-word-embeddings/data/glove.6B.50d.txt
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
