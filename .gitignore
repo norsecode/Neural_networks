@@ -2,7 +2,8 @@
 kera-object-detection-yolo/model_data/yolo.h5
 tensorflow-neural-style-tranfer/pretrained-model/*.mat
 neural-network-word-embeddings/data/glove.6B.50d.txt
-
+keras-trigger-word-detection/XY_dev/X_dev.npy
+keras-trigger-word-detection/XY_train/X.npy
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
